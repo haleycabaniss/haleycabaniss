@@ -3,7 +3,6 @@
 - 🎓 I received my BS in Geology from the College of Charleston, and my PhD at the University of Illinois, Urbana-Champaign. I'm currently working for Eastern Kentucky University as an Assistant Professor of Geology.
 - 🌱 I’m currently learning about neural networks and image recognition for application to my marine science research. I'm also excited to be developing my first iteration of an Applied Geophysics class, and am learning how to best teach these concepts to undergraduate students!
 - 💞️ I’m looking to collaborate on research related to volcanic deformation, finite element modeling of the solid Earth processes that govern volcanoes, and research related to mid-ocean ridge systems.
-- 💼 Im' on the job market and am looking for work as a postdoctoral scholar, a research scientist, or as an assistant professor!
 - 📫 You can reach me at haley.cabaniss@eku.edu. My twitter handle (which I intend to use someday) is <a href="https://twitter.com/HaleyCabaniss27">@HaleyCabaniss27</a>
 <!---
 haleycabaniss/haleycabaniss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
